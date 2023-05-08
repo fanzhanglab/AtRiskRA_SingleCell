@@ -8,5 +8,5 @@ Rheumatoid arthritis (RA) is a systemic autoimmune disease with currently no eff
 ![image](./images/CyTOF_workflow.png)
 **Study design**
 
-![image](./images/results.png)
+![image](./images/results.jpg)
 **Rsults summary**
