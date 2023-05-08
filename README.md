@@ -1,12 +1,13 @@
 # Deciphering pathogenic phenotypes by deep single-cell immunophenotyping in individuals At-Risk for rheumatoid arthritis
 
-**Abstract**
 Rheumatoid arthritis (RA) is a systemic autoimmune disease with currently no effective prevention strategies. There is now evolving research on potentially pathogenic mechanisms in individuals who can be designated as ‘At-Risk’ for future RA because of the presence of serum antibodies to citrullinated protein antigens (ACPA) and/or first-degree relative (FDR) family status. Identifying pathogenic immune phenotypes in At-Risk populations prior to clinically apparent disease, designated clinical RA is crucial to establishing prevention strategies. We applied novel computational approaches to mass cytometry data to characterize heterogeneity in B, T, NK, and myeloid cells from At-Risk individuals of various subpopulations based on family or autoantibody status (n=52), established RA (n=67), and healthy controls (n=48). We established scalable strategies for large single-cell proteomics to uncover co-varying phenotypical changes among different clinical categories. Within T cells, we quantified the altered immune populations in different At-Risk populations compared with controls and found significant cell expansions of CCR2+ T helper cells, T peripheral helper cells (Tphs), type 1 T helper cells, and GZMB+ effector memory T cells re-expresses CD45RA (TEMRA) cytotoxic T cells in At-Risk individuals. We further validated these significant states in another cohort. In addition, CD15+ classical monocytes were especially expanded in ACPA-negative At-Risk; and an activated PAX5low naïve B cell population expanded in ACPA-positive individuals who also had an FDR with RA. Further, we developed a “RA immunophenotype score” classification method by incorporating both the degree of enrichment and the abundance for immune populations enriched or depleted in established RA using mixed-effect modeling and logistic regression. We found this score significantly distinguished At-Risk individuals from the control (p=0.039 and AUC>0.6). In all, we identified specifically altered circulating immune phenotypes in At-Risk individuals, along with immunophenotypical differences among ACPA+ and FDR At-Risk populations; further, our classification model may provide a promising approach towards uncovering the unknown pathogenesis of RA with the goal to develop preventive strategies.
 
 **Reference: Inamo J et al. Deciphering pathogenic phenotypes by deep single-cell immunophenotyping in individuals At-Risk for rheumatoid arthritis. ([preprint](https://XXX))**
 
-![image](./images/CyTOF_workflow.png)
-**Study design**
 
+# Study design
+![image](./images/CyTOF_workflow.png)
+
+
+# Results summary
 ![image](./images/results.jpg)
-**Rsults summary**
