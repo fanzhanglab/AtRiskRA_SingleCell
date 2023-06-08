@@ -5,7 +5,7 @@ Rheumatoid arthritis (RA) is a systemic autoimmune disease with currently no eff
 **Reference: Inamo J et al. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis. ([preprint](https://XXX))**
 
 
-# Study design
+# Overview of mass cytometry analytical strategy, clustering, and classifications for At-Risk RA and established RA individuals.
 ![image](./images/CyTOF_workflow.png)
 
 # Highlights
