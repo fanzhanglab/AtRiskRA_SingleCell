@@ -15,3 +15,7 @@ Rheumatoid arthritis (RA) is a systemic autoimmune disease with currently no eff
 
 # Results summary
 ![image](./images/results.jpg)
+Identifications of specific T cell populations that were associated with At-Risk. A. Cells in UMAP are colored in red (expansion) or blue (depletion) and p-value is shown as well. B. Distributions of cell neighborhood correlations and odds ratio. Error bars represent 95% confidence intervals. 
+
+![image](./images/RA_immunophenotype_score.jpg)
+Classifications for At-Risk individuals and established RA individuals. A. RA immunophenotype score utilizing RA-specific cell type abundances to quantify and distinguish At-Risk individuals from control. For each cell type, all p-values from the covarying neighborhood analysis test were p = 1e-3. We incorporated clusters that are significantly associated with RA (adjusted p < 0.05) to model the RA immunophenotype score. We calculated RA immunophenotype score based on cell type abundances multiplied by corresponding major cell type proportions and enrichment scores for each cell type, B. Distribution of RA immunophenotype score across individual samples from RA, At-Risk, and controls; **** p < 0.0001, * p < 0.05, C. Receiver operating characteristic (ROC) analysis to evaluate the classification performance of RA immunophenotype score in distinguishing At-Risk from control. Areas under the curve (AUC) with 95% confidence intervals were described. All the analyses are adjusted for age and sex.
