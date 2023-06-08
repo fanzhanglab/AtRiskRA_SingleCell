@@ -22,9 +22,6 @@ harmony_embeddings_all <- HarmonyMatrix(pca_res$x,
                                         do_pca=FALSE)
 print(Sys.time())
 
-print(head(harmony_embeddings_all))
-print(dim(harmony_embeddings_all))
-
 saveRDS(harmony_embeddings_all, paste0("/projects/jinamo@xsede.org/cytof/data/B_cells/harmony_embeddings_Prop",prop,"_Nmin",n_min,"_topVar",frac,".rds"))
 
 
