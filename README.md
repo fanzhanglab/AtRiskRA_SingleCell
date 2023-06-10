@@ -5,8 +5,15 @@ Rheumatoid arthritis (RA) is a systemic autoimmune disease with currently no eff
 **Reference: Inamo J et al. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis. ([preprint](https://XXX))**
 
 
-# Overview of mass cytometry analytical strategy, clustering, and classifications for At-Risk RA and established RA individuals.
+# Overview of mass cytometry analytical strategy, clustering, and classifications in our study.
 ![image](./images/CyTOF_workflow.png)
+We deeply characterized the immunophenotypes in blood of At-Risk individuals, established RA, and relevant controls enrolled from the SERA (Studies of the Etiologies of Rheumatoid Arthritis) and the AMP RA/SLE (Accelerating Medicines Partnership Rheumatoid Arthritis/Systemic Lupus Erythematosus).
+
+# Motivation for this study
+- No effective prevention strategies for RA currently.
+- Delay in the diagnosis and treatments is associated with poor functional prognosis.
+- Current RA disease development research is mainly based on clinical observations with relatively low-resolution measurements.
+- To further develop accurate prediction models for future RA, investigating the full molecular and cellular spectrum in individuals who are in the At-Risk state is the key to identifying predictive markers and phenotypes to further develop accurate prediction models for future RA, and identify targets for preventive interventions.
 
 # Highlights
 - We identified immune cell phenotypes relevant to the preclinical phase of RA
