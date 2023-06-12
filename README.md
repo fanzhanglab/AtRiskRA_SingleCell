@@ -12,8 +12,8 @@ We deeply characterized the immunophenotypes in blood of At-Risk individuals, es
 # Motivation for this study
 - In RA, delay in the diagnosis and treatments is associated with poor functional prognosis.
 - No effective prevention strategies currently.
-- Current RA disease development research is mainly based on clinical observations with relatively low-resolution measurements.
-- To further develop accurate prediction models for future RA, investigating the full molecular and cellular spectrum in individuals who are in the At-Risk state is the key to identifying predictive markers and phenotypes to further develop accurate prediction models for future RA, and identify targets for preventive interventions.
+- Existing RA disease development research is mainly based on clinical observations with relatively low-resolution measurements.
+- Investigating the full molecular and cellular spectrum in individuals who are in the At-Risk state is the key to identifying predictive markers and phenotypes to further develop accurate prediction models for future RA, and identify targets for preventive interventions.
 
 # Highlights
 - We identified immune cell phenotypes relevant to the preclinical phase of RA
