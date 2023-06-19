@@ -11,8 +11,7 @@ We deeply characterized the immunophenotypes in blood of At-Risk individuals, es
 
 # Highlights
 - We identified multiple immune cell populations relevant to the preclinical phase of RA
-- We developed an "RA immunophenotype score" schema to estimate the degree of RA-relevant immunophenotypes for individuals
-- We provide large-scale reference dataset for single-cell proteomics analysis
+- We developed an "RA immunophenotype score" schema to quantify the degree of enrichment of RA-relevant immune cell populations for individuals
 
 # Results summary
 ![image](./images/results.jpg)
