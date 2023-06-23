@@ -23,4 +23,4 @@ We deeply characterized the immunophenotypes in blood of At-Risk individuals, es
 # Contact us
 Please contact us (Jun Inamo: JUN.INAMO@CUANSCHUTZ.EDU) with any questions or comments.
 
-The data presented here comes from the laboratory of [Dr. Fan Zhang](https://fanzhanglab.org/) through collaborating with AMP RA/SLE.
+The data presented here comes from the laboratory of [Dr. Fan Zhang](https://fanzhanglab.org/) through collaborating with AMP [RA/SLE](https://www.niams.nih.gov/grants-funding/funded-research/accelerating-medicines/RA-SLE).
