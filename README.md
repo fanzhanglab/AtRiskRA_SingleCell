@@ -30,8 +30,9 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
 
 - This score significantly distinguished At-Risk individuals from controls, providing a promising approach for understanding RA pathogenesis with the goal to improve prevention strategies and identify novel therapeutic targets. 
 
-&nbsp;<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/RA_immunophenotype_score.jpg" width="750" align="center">
-
+<kbd>
+<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/RA_immunophenotype_score.jpg" width="750" align="center">
+</kbd>
 
 # Citation 
 
