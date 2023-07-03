@@ -8,7 +8,7 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
 
 # Overview
 
-**Overview of our analytical strategy, including 1) integrative clustering, 2) co-varying neighborhood analysis-based disease association, and classification modeling.
+**Overview of our analytical strategy, including 1) integrative clustering, 2) co-varying neighborhood analysis-based disease association, and 3) classification modeling**.
 
 ![image](./images/CyTOF_workflow.png)
 
