@@ -24,9 +24,10 @@ We systematically identified **activated lymphocyte phenotypes in At-Risk indivi
 &nbsp;&nbsp;
 
 We developed an **“RA immunophenotype score” classification method** based on the degree of enrichment of cell states relevant to established RA patients. 
-This score significantly distinguished At-Risk individuals from controls. Our classification model provides a promising approach for understanding RA pathogenesis with the goal to improve prevention strategies and identify novel therapeutic targets. 
 
-&nbsp;<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/RA_immunophenotype_score.jpg" width="700" align="center">
+- This score significantly distinguished At-Risk individuals from controls, providing a promising approach for understanding RA pathogenesis with the goal to improve prevention strategies and identify novel therapeutic targets. 
+
+&nbsp;<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/RA_immunophenotype_score.jpg" width="750" align="center">
 
 
 # Citation 
