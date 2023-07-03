@@ -29,7 +29,7 @@ This score significantly distinguished At-Risk individuals from controls. Our cl
 ![image](./images/RA_immunophenotype_score.jpg)
 
 
-# Citation: 
+# Citation 
 
 Inamo J, *et al*. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis. ([preprint](https://XXX))**
 
