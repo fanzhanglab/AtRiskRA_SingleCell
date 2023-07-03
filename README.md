@@ -20,12 +20,13 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
 
 ![image](./images/results.jpg)
 
+&nbsp;&nbsp;
 
 - We developed an **“RA immunophenotype score” classification method** based on the degree of enrichment of cell states relevant to established RA patients. 
 This score significantly distinguished At-Risk individuals from controls. Our classification model provides a promising approach for understanding RA pathogenesis with the goal to improve prevention strategies and identify novel therapeutic targets. 
 
 
-&nbsp;&nbsp;![image](./images/RA_immunophenotype_score.jpg)
+![image](./images/RA_immunophenotype_score.jpg)
 
 
 # Citation 
