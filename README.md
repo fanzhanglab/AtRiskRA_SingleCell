@@ -16,7 +16,7 @@ This score significantly distinguished At-Risk individuals from controls. Our cl
 
 # Citation: 
 
-Inamo J et al. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis. ([preprint](https://XXX))**
+Inamo J, *et al*. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis. ([preprint](https://XXX))**
 
 
 # Overview of our analytical strategy, including clustering, disease associaiton, and classifications.
@@ -24,11 +24,11 @@ Inamo J et al. Deep immunophenotyping reveals circulating activated lymphocytes 
 
 
 # Results summary
-#### Identifications of specific T cell populations that were associated with At-Risk: CCR2+CD4+ T cells, T peripheral helper (Tph) cells, type 1 T helper cells, and CXCR5+CD8+ T cells, etc.
+#### - Identifications of specific T cell populations that were associated with At-Risk: CCR2+CD4+ T cells, T peripheral helper (Tph) cells, type 1 T helper cells, and CXCR5+CD8+ T cells, etc.
 ![image](./images/results.jpg)
 
 
-#### An RA immunophenotype score model to quantitatively classify disease statuses, and evaluation on our large-scale single-cell proteomic data. 
+#### - An RA immunophenotype score model to quantitatively classify disease statuses, and evaluation on our large-scale single-cell proteomic data. 
 ![image](./images/RA_immunophenotype_score.jpg)
 
 
