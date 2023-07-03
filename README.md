@@ -12,7 +12,7 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
 
 # Results summary
 
-- We systematically identified activated lymphocyte phenotypes in At-Risk individuals, along with immunophenotypic differences between different At-Risk subpopulations.
+- We systematically identified **activated lymphocyte phenotypes in At-Risk individuals**, along with immunophenotypic differences between different At-Risk subpopulations.
 
   - We identified significant cell expansions in At-Risk individuals compared with controls, including CCR2+CD4+ T cells, T peripheral helper (Tph) cells, type 1 T helper cells, and CXCR5+CD8+ T cells.
   
@@ -21,11 +21,11 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
 ![image](./images/results.jpg)
 
 
-- We developed an “RA immunophenotype score” classification method based on the degree of enrichment of cell states relevant to established RA patients. 
+- We developed an **“RA immunophenotype score” classification method** based on the degree of enrichment of cell states relevant to established RA patients. 
 This score significantly distinguished At-Risk individuals from controls. Our classification model provides a promising approach for understanding RA pathogenesis with the goal to improve prevention strategies and identify novel therapeutic targets. 
 
 
-![image](./images/RA_immunophenotype_score.jpg)
+![image](./images/RA_immunophenotype_score.jpg =100x20)
 
 
 # Citation 
