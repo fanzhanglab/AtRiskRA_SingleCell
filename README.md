@@ -14,11 +14,6 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
 This score significantly distinguished At-Risk individuals from controls. Our classification model provides a promising approach for understanding RA pathogenesis with the goal to improve prevention strategies and identify novel therapeutic targets. 
 
 
-# Citation: 
-
-Inamo J, *et al*. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis. ([preprint](https://XXX))**
-
-
 # Overview of our analytical strategy, including clustering, disease associaiton, and classifications.
 ![image](./images/CyTOF_workflow.png)
 
@@ -32,6 +27,11 @@ Inamo J, *et al*. Deep immunophenotyping reveals circulating activated lymphocyt
 - An RA immunophenotype score model to quantitatively classify disease statuses, and evaluation on our large-scale single-cell proteomic data. 
 
 ![image](./images/RA_immunophenotype_score.jpg)
+
+
+# Citation: 
+
+Inamo J, *et al*. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis. ([preprint](https://XXX))**
 
 
 # Contact us
