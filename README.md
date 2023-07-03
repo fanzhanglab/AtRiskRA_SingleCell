@@ -19,7 +19,7 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
   - We also found that CD15+ classical monocytes were specifically expanded in ACPA-negative FDRs, and an activated PAX5low naïve B cell population was expanded in ACPA-positive FDRs. 
 
 ![image](./images/results.jpg)
-<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/RA_immunophenotype_score.jpg" width="220" align="right">
+<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/RA_immunophenotype_score.jpg" width="4000" align="center">
 
 &nbsp;&nbsp;
 
@@ -28,6 +28,7 @@ This score significantly distinguished At-Risk individuals from controls. Our cl
 
 
 ![image](./images/RA_immunophenotype_score.jpg)
+<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/RA_immunophenotype_score.jpg" width="4000" align="center">
 
 
 # Citation 
