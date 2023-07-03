@@ -8,7 +8,6 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
 
 # Overview of our analytical strategy, including clustering, disease associaiton, and classifications.
 ![image](./images/CyTOF_workflow.png)
-<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/CyTOF_workflow.png" width="700" align="right">
 
 &nbsp;&nbsp;
 
