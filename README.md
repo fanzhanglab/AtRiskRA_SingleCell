@@ -12,6 +12,7 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
 
 ![image](./images/CyTOF_workflow.png)
 
+
 &nbsp;&nbsp;
 
 # Results summary
@@ -30,7 +31,7 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
 
 **We developed an “RA immunophenotype score” classification method based on the degree of enrichment of cell states relevant to established RA patients**. 
 
-- This score significantly distinguished At-Risk individuals from controls, providing a promising approach for understanding RA pathogenesis with the goal to improve prevention strategies and identify novel therapeutic targets. 
+- This score significantly distinguished At-Risk individuals from controls, providing a promising approach for understanding RA pathogenesis with the goal to develop effective prevention strategies. 
 
 <kbd>
 <img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/RA_immunophenotype_score.jpg" width="800" align="center">
