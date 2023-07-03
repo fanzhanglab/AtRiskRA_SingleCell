@@ -25,7 +25,7 @@ Here, we applied mass cytometry to deeply characterize the immunophenotypes in b
 This score significantly distinguished At-Risk individuals from controls. Our classification model provides a promising approach for understanding RA pathogenesis with the goal to improve prevention strategies and identify novel therapeutic targets. 
 
 
-![image](./images/RA_immunophenotype_score.jpg =100x20)
+&nbsp;&nbsp;![image](./images/RA_immunophenotype_score.jpg)
 
 
 # Citation 
