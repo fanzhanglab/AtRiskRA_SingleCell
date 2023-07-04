@@ -43,7 +43,7 @@ This Github Repo includes the source code for the computational analyses involve
 
 # Citation 
 
-Inamo J, *et al*. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis. ([preprint](https://XXX))
+Inamo J, *et al*. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis. ([preprint](https://www.biorxiv.org/content/10.1101/2023.07.03.547507v1))
 
 
 # Contact us
