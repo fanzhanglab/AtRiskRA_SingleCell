@@ -49,3 +49,8 @@ Inamo J, *et al*. Deep immunophenotyping reveals circulating activated lymphocyt
 Please contact us (Jun Inamo: JUN.INAMO@CUANSCHUTZ.EDU) with any questions or comments.
 
 The data presented here comes from the laboratory of [Dr. Fan Zhang](https://fanzhanglab.org/) through collaborating with [AMP RA/SLE Network](https://www.niams.nih.gov/grants-funding/funded-research/accelerating-medicines/RA-SLE).
+
+
+# Acknowledgments
+
+<img width="45%" align = "right" src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/funding.png">
