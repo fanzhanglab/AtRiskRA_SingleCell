@@ -4,7 +4,7 @@
 
 Rheumatoid arthritis (RA) is a systemic autoimmune disease with no universally effective prevention strategies. Identifying pathogenic immune phenotypes in ‘At-Risk’ populations prior to disease onset is crucial to establishing effective prevention strategies. 
 
-We deeply characterized the immunophenotypes in blood from At-Risk individuals (the presence of serum antibodies to citrullinated protein antigens (ACPA) and/or first-degree relative (FDR) status) as compared to established RA and healthy controls enrolled from the AMP RA/SLE (Accelerating Medicines Partnership Rheumatoid Arthritis/Systemic Lupus Erythematosus) Network. 
+We deeply characterized the immunophenotypes in blood from At-Risk individuals (the presence of serum antibodies to citrullinated protein antigens (ACPA) and/or first-degree relative (FDR) status) as compared to established RA and healthy controls enrolled from the AMP RA/SLE Network. 
 
 This Github Repo includes the source code for the computational analyses involved in this work.
 
