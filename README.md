@@ -1,11 +1,8 @@
 
-# Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis <img width="40%" align = "right" src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/illustration_logo.png">
+# Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis <img width="50%" align = "right" src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/illustration_logo.png">
 
 
-Rheumatoid arthritis (RA) is a systemic autoimmune disease with currently no universally highly effective prevention strategies. 
-Identifying pathogenic immune phenotypes in ‘At-Risk’ populations prior to clinical disease onset is crucial to establishing effective prevention strategies. 
-
-Here, we deeply characterized the immunophenotypes in blood from At-Risk individuals identified through the presence of serum antibodies to citrullinated protein antigens (ACPA) and/or first-degree relative (FDR) status, as compared to established RA, and healthy controls enrolled from the SERA (Studies of the Etiologies of Rheumatoid Arthritis) and the AMP RA/SLE (Accelerating Medicines Partnership Rheumatoid Arthritis/Systemic Lupus Erythematosus). 
+Rheumatoid arthritis (RA) is a systemic autoimmune disease with currently no universally highly effective prevention strategies. Identifying pathogenic immune phenotypes in ‘At-Risk’ populations prior to clinical disease onset is crucial to establishing effective prevention strategies. Here, we deeply characterized the immunophenotypes in blood from At-Risk individuals identified through the presence of serum antibodies to citrullinated protein antigens (ACPA) and/or first-degree relative (FDR) status, as compared to established RA, and healthy controls enrolled from the SERA (Studies of the Etiologies of Rheumatoid Arthritis) and the AMP RA/SLE (Accelerating Medicines Partnership Rheumatoid Arthritis/Systemic Lupus Erythematosus). 
 
 This Github Repo includes the source code for the computational analyses involved in this work.
 
