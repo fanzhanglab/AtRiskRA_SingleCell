@@ -1,6 +1,6 @@
 # Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis
 
-<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/illustration_logo.png" width="200" align="right">
+<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/illustration_logo.png" width="300" align="right">
 
 Rheumatoid arthritis (RA) is a systemic autoimmune disease with currently no universally highly effective prevention strategies. 
 Identifying pathogenic immune phenotypes in ‘At-Risk’ populations prior to clinical disease onset is crucial to establishing effective prevention strategies. 
