@@ -19,7 +19,7 @@ This Github Repo includes the source code for the computational analyses involve
 
 &nbsp;&nbsp;
 
-# Summary of results
+# Summary
 
 **We systematically identified activated lymphocyte phenotypes in At-Risk individuals, along with immunophenotypic differences between different At-Risk subpopulations**.
 
