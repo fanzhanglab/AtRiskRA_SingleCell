@@ -43,7 +43,7 @@ This Github Repo includes the source code for the computational analyses involve
 
 # Citation 
 
-Inamo J, Keegan, J., Griffith, A., Ghosh, T., Horisberger, A., Howard, K., Pulford, J., Murzin, E., Hancock, B., Jonsson, A.H., Seifert, J., Feser, M.L., Norris, J.M., Cao, Y., Apruzzese, W., Bridages, S.L., Bykerk, V., Goodman, S., Donlin, L., Firestein, G.S., Perlman, H., Bathon, J.M., Hughes, L.B., Tabechian, D., Filer, A., Pitzalis, C., Anolik, J.H., Moreland, L., Guthridge, J., James, J., Brenner, M.B., Raychaudhuri, S., Sparks, J.A., The AMP RA/SLE, …, Holers, V.M., Deane, K.D., Lederer, J.A., Rao, D.A., Zhang, F. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis, [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.03.547507v1), 2023
+Inamo J, Keegan, J., Griffith, A., Ghosh, T., Horisberger, A., Howard, K., Pulford, J., Murzin, E., Hancock, B., Jonsson, A.H., Seifert, J., Feser, M.L., Norris, J.M., Cao, Y., Apruzzese, W., Bridages, S.L., Bykerk, V., Goodman, S., Donlin, L., Firestein, G.S., Perlman, H., Bathon, J.M., Hughes, L.B., Tabechian, D., Filer, A., Pitzalis, C., Anolik, J.H., Moreland, L., Guthridge, J., James, J., Brenner, M.B., Raychaudhuri, S., Sparks, J.A., The AMP RA/SLE, …, Holers, V.M., Deane, K.D., Lederer, J.A., Rao, D.A., Zhang, F. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis, [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.07.03.547507v1), doi:[10.1101/2023.07.03.547507](https://www.biorxiv.org/content/10.1101/2023.07.03.547507v1), 2023
 
 
 # Contact us
