@@ -55,4 +55,4 @@ The data presented here comes from the laboratory of [Dr. Fan Zhang](https://fan
 # Acknowledgments
 <img width="90%" align = "right" src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/funding.png">
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/fanzhanglab/count.svg)
