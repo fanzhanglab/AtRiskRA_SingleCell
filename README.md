@@ -1,6 +1,7 @@
 
 # Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis <img width="45%" align = "right" src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/illustration_logo.png">
 [![DOI](https://zenodo.org/badge/655716020.svg)](https://zenodo.org/badge/latestdoi/655716020)
+![](https://komarev.com/ghpvc/?username=fanzhanglab&style=flat-square&color=green)
 
 Rheumatoid arthritis (RA) is a systemic autoimmune disease with no universally effective prevention strategies. Identifying pathogenic immune phenotypes in ‘At-Risk’ populations prior to disease onset is crucial to establishing effective prevention strategies. 
 
@@ -43,7 +44,7 @@ This Github Repo includes the source code for the computational analyses involve
 
 # Citation 
 
-Inamo J, *et al*. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis. ([preprint](https://www.biorxiv.org/content/10.1101/2023.07.03.547507v1))
+Inamo J, Keegan, J., Griffith, A., Ghosh, T., Horisberger, A., Howard, K., Pulford, J., Murzin, E., Hancock, B., Jonsson, A.H., Seifert, J., Feser, M.L., Norris, J.M., Cao, Y., Apruzzese, W., Bridages, S.L., Bykerk, V., Goodman, S., Donlin, L., Firestein, G.S., Perlman, H., Bathon, J.M., Hughes, L.B., Tabechian, D., Filer, A., Pitzalis, C., Anolik, J.H., Moreland, L., Guthridge, J., James, J., Brenner, M.B., Raychaudhuri, S., Sparks, J.A., The AMP RA/SLE, …, Holers, V.M., Deane, K.D., Lederer, J.A., Rao, D.A., Zhang, F. Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis, [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.07.03.547507v1), doi:[10.1101/2023.07.03.547507](https://www.biorxiv.org/content/10.1101/2023.07.03.547507v1), 2023
 
 
 # Contact us
@@ -54,3 +55,6 @@ The data presented here comes from the laboratory of [Dr. Fan Zhang](https://fan
 
 # Acknowledgments
 <img width="90%" align = "right" src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/funding.png">
+
+
+
