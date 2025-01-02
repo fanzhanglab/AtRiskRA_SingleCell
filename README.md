@@ -1,5 +1,5 @@
 
-# Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis <img width="45%" align = "right" src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/illustration_logo.png">
+# Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis
 [![DOI](https://zenodo.org/badge/655716020.svg)](https://zenodo.org/badge/latestdoi/655716020)
 ![](https://komarev.com/ghpvc/?username=fanzhanglab&style=flat-square&color=green&label=REPOSITORY+VIEWS)
 
