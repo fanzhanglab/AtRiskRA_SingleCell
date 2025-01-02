@@ -29,7 +29,7 @@ This Github Repo includes the source code for the computational analyses involve
 - We also found that CD15+ classical monocytes were specifically expanded in ACPA-negative FDRs, and an activated PAX5low naïve B cell population was expanded in ACPA-positive FDRs. 
 
 <kbd>
-<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/results.jpg" width="800" align="center">
+<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/results.jpg" width="800" img align=="center">
 </kbd>
 
 &nbsp;&nbsp;
