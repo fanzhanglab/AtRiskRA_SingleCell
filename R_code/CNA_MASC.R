@@ -1,5 +1,3 @@
-#!/projects/jinamo@xsede.org/software/anaconda/envs/Renv/bin/Rscript
-
 # load packages and functions
 suppressMessages(library(data.table))
 suppressMessages(library(dplyr))
@@ -12,13 +10,13 @@ source("/home/jinamo@xsede.org/scripts/cytof/Seurat_functions.R")
 source("/home/jinamo@xsede.org/scripts/cytof/MASC.R")
 
 # set parameters
-prop = commandArgs(trailingOnly=TRUE)[1] %>% as.numeric() #1番目の引数を取得
-n_min = commandArgs(trailingOnly=TRUE)[2] %>% as.integer() #2番目の引数を取得
-frac = commandArgs(trailingOnly=TRUE)[3] %>% as.numeric() #3番目の引数を取得
+prop = commandArgs(trailingOnly=TRUE)[1] %>% as.numeric()
+n_min = commandArgs(trailingOnly=TRUE)[2] %>% as.integer()
+frac = commandArgs(trailingOnly=TRUE)[3] %>% as.numeric()
 
-n_neighbors = commandArgs(trailingOnly=TRUE)[4] %>% as.integer() #4番目の引数を取得
-min_dist = commandArgs(trailingOnly=TRUE)[5] %>% as.numeric() #5番目の引数を取得
-resolution_list = commandArgs(trailingOnly=TRUE)[6] %>% as.numeric() #6番目の引数を取得
+n_neighbors = commandArgs(trailingOnly=TRUE)[4] %>% as.integer()
+min_dist = commandArgs(trailingOnly=TRUE)[5] %>% as.numeric()
+resolution_list = commandArgs(trailingOnly=TRUE)[6] %>% as.numeric()
 
 obj = readRDS(paste0("/projects/jinamo@xsede.org/cytof/data/B_cells/SeuratObj_Prop",prop,"_Nmin",n_min,"_topVar",frac,"_nneighbors",n_neighbors,"_mindist",min_dist,"_res",resolution_list,".rds"))
 obj@meta.data$subject_id <- stringr::str_split(obj@meta.data$OmiqFileIndex, pattern="_", simplify=TRUE)[,3] %>% 
