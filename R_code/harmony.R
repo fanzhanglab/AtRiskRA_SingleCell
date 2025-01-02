@@ -7,9 +7,9 @@ suppressMessages(library(harmony))
 suppressMessages(library(magrittr))
 suppressMessages(library(stringr))
 
-prop = commandArgs(trailingOnly=TRUE)[1] %>% as.numeric() #1番目の引数を取得
-n_min = commandArgs(trailingOnly=TRUE)[2] %>% as.integer() #2番目の引数を取得
-frac = commandArgs(trailingOnly=TRUE)[3] %>% as.numeric() #3番目の引数を取得
+prop = commandArgs(trailingOnly=TRUE)[1] %>% as.numeric()
+n_min = commandArgs(trailingOnly=TRUE)[2] %>% as.integer()
+frac = commandArgs(trailingOnly=TRUE)[3] %>% as.numeric()
 
 pca_res <- readRDS(file=paste0("/projects/jinamo@xsede.org/cytof/data/B_cells/PCA_embeddings_Prop",prop,"_Nmin",n_min,"_topVar",frac,".rds"))
 batch_fl = readRDS(file=paste0("/projects/jinamo@xsede.org/cytof/data/B_cells/meta_Prop",prop,"_Nmin",n_min,".rds"))
