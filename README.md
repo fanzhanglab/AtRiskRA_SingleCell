@@ -15,7 +15,7 @@ This Github Repo includes the source code for the computational analyses involve
 **Overview of our analytical strategy**: including 1) integrative clustering, 2) co-varying neighborhood analysis-based disease association, and 3) classification modeling.
 
 <kbd>
-<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/CyTOF_workflow.jpg" width="800" align="center">
+<img src="https://github.com/fanzhanglab/AtRiskRA_CyTOF/blob/main/images/CyTOF_workflow.jpg" width="400" align="center">
 </kbd>
 
 &nbsp;&nbsp;
