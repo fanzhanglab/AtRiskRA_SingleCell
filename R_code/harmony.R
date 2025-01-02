@@ -1,5 +1,3 @@
-#!/projects/jinamo@xsede.org/software/anaconda/envs/Renv/bin/Rscript
-
 # load packages and functions
 suppressMessages(library(data.table))
 suppressMessages(library(dplyr))
